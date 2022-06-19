@@ -11,7 +11,7 @@
 #include <CUnit/Basic.h> 
 
 #define TESTING_FILE (fopen("test.txt", "a")) // arquivo usado para testar funcoes
-#define MIN_ARRAY_SIZE (1) /* tamanho mínimo para um array */
+
 
 
 /******************** Funções da biblioteca Descompacta.h **********************/
