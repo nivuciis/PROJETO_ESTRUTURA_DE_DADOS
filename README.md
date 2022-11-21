@@ -1,4 +1,4 @@
-# PROJETO_ESTRUTURA_DE_DADOS
+# PROJETO ESTRUTURA DE DADOS
 <h1>Projeto para a disciplina de Estrutura de Dados</h1> 
 <p style="text-align: center;">Projeto realizado para a disciplina de estrutura de dados do professor Márcio Ribeiro. Neste projeto temos três partes: a primeira parte é composto por uma análise do Algoritmo de A* tais como suas caracteristicas de busca de caminho, a segunda parte remete a apresentação do método de codificação de Huffman e casos de testes unitários utiliando CUnit, tanto a primeira quanto a segunda parte foram feitas completamente utilizando a linguagem C já a terceira parte trata-se de uma comparação demonstrativa da complexidade das funções de enqueue e dequeue entre fila de prioridade com Heap e fila de prioridade sem Heap sendo a comparação feita utilizando C enquantoa plotagem dos resultados foi realizada utilizando o Matplotlib em Python.</p>
 <h3 style="text-shadow: 1px 2px 2px #CE5937;">Responsáveis pelo projeto: Vinicius Rafael Marques, Jackson Bruno Lima, Lucas Vinicius Silva e Victor Manoel Avila Canuto</h3>
