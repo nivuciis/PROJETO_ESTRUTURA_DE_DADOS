@@ -41,12 +41,12 @@ for k in lin_pq:
 fil_pq.close()
 #lista da contagem empilhar
 list_enqueue_pq = []
-for k in range(0,8000):
+for k in range(0,10000):
     list_enqueue_pq.append(list_numbers_pq[k])
 list_enqueue_pq = bubble_sort(list_enqueue_pq)
 #lista da contagem desempilhar
 list_dequeue_pq = []
-for k in range(8001,16000):
+for k in range(10001,20000):
     list_dequeue_pq.append(list_numbers_pq[k])
 list_dequeue_pq = bubble_sort(list_dequeue_pq)
 
