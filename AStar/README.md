@@ -1,1 +1,1 @@
-<h1 style="box-shadow: 2px 2px 7px 1px #CE5937;">Algoritmo de Path Finding : A*</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=CE5937&center=true&lines=Algoritmo+de+Path+Finding:+A*)](https://git.io/typing-svg)
