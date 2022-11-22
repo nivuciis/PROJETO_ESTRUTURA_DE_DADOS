@@ -4,3 +4,4 @@
 chamada de heuristica que calcula a rota entre dois ou mais pontos em um plano. Ao utilizar a heuristica o A*
 determina qual o melhor caminho baseado na menor distância entre o ponto de origem, os pontos de transição e
 o ponto de destino.</p>
+<img src="AstarExampleEn.gif">
